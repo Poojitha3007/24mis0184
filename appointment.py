@@ -3,3 +3,4 @@ def register_patient(name):
     print(f"Patient {name} registered successfully.")
 def login_user(username, password):
     print(f"User {username} logged in.")
+print("Appointment booked from Conflict Branch")
